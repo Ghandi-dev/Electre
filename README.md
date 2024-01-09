@@ -56,8 +56,11 @@ pnpm run dev
 > **Requirements**
 
 1. Node JS
+2. MySQL
 
 > **How to run**
+
+In MySQL reate a database with name db_electre
 
 ```
 npm install
