@@ -60,7 +60,7 @@ pnpm run dev
 
 > **How to run**
 
-In MySQL reate a database with name db_electre
+In MySQL create a database with name db_electre
 
 ```
 npm install
