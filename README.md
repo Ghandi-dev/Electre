@@ -4,31 +4,31 @@
 
 1. Dashboard
 
-   ![1704783080626](image/README/1704783080626.png)
+   ![1704783080626](Front_end/image/README/1704783080626.png)
 
 2. Alternatif
 
-   ![1704783091626](image/README/1704783091626.png)
+   ![1704783091626](Front_end/image/README/1704783091626.png)
 
 3. Kriteria
 
-   ![1704783098588](image/README/1704783098588.png)
+   ![1704783098588](Front_end/image/README/1704783098588.png)
 
 4. Sub Kriteria
 
-   ![1704783103123](image/README/1704783103123.png)
+   ![1704783103123](Front_end/image/README/1704783103123.png)
 
 5. Data Penilaian
 
-   ![1704783108797](image/README/1704783108797.png)
+   ![1704783108797](Front_end/image/README/1704783108797.png)
 
 6. Data Perhitungan
 
-   ![1704783120188](image/README/1704783120188.png)
+   ![1704783120188](Front_end/image/README/1704783120188.png)
 
 7. Data Hasil Akhir
 
-   ![1704783132217](image/README/1704783132217.png)
+   ![1704783132217](Front_end/image/README/1704783132217.png)
 
 #### FRONT END
 
